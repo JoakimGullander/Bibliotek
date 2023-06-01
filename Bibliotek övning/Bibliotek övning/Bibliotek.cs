@@ -8,7 +8,7 @@ namespace Bibliotek_övning
     {
         internal static void Användare(string username, string password, string name)
         {
-            Användare(username, password, name);
+            
         }
     }
 
